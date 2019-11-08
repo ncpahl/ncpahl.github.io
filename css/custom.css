@@ -142,3 +142,13 @@ footer i {
   background-color: #fff;
   color: #5e2885;
 }
+
+@media (max-width: 1000px) {
+  .display-3 {
+    font-size: 3em;
+  }
+
+  .hide {
+    display: none;
+  }
+}
